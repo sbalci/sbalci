@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I hope everything is fine there. I am struggling with some commas and paranthesis.
+
 <!--
 **sbalci/sbalci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
