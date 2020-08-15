@@ -53,4 +53,5 @@ custom: ["https://paypal.me/serdarbalci", paypal.me/serdarbalci]
 
 </p>
 
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=sbalci.github.profile)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sbalci.github.profile)
+
