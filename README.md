@@ -8,6 +8,9 @@
 🔬👀📑🗃📊🏨🗄📇📖⚗📝🎶📈📉📃🖍🔬🔬🏋🚴🚙👨💻📸📺🎛🔭🔬💊🔐🍫🌸
 
 
+---
+
+
 - 🔭 I’m currently working on
 
 [![ClinicoPathJamoviModule Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=ClinicoPathJamoviModule)](https://sbalci.github.io/ClinicoPathJamoviModule/)
@@ -42,5 +45,11 @@ custom: ["buymeacoff.ee/bS0teIs", buymeacoffee]
 custom: ["https://paypal.me/serdarbalci", paypal.me/serdarbalci]
 -->
 
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/serdar-balci-md-pathologist/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/balciserdar"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
+</p>
 
