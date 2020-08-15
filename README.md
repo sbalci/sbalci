@@ -58,7 +58,7 @@ custom: ["https://paypal.me/serdarbalci", paypal.me/serdarbalci]
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/serdarbalci/)](https://www.twitter.com/serdarbalci/)  
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/serdarbalcimdpathologist/)](https://www.facebook.com/serdarbalcimdpathologist/)  
 [![Twitter Badge](https://img.shields.io/badge/-serdarbalci-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/serdarbalci)](https://twitter.com/serdarbalci)  
-[![Linkedin Badge](https://img.shields.io/badge/-serdar-balci-md-pathologist-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serdar-balci-md-pathologist//)](https://www.linkedin.com/in/serdar-balci-md-pathologist/)
+[![Linkedin Badge](https://img.shields.io/badge/-SerdarBalciMDPathologist-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serdar-balci-md-pathologist//)](https://www.linkedin.com/in/serdar-balci-md-pathologist/)  
 
 
 
