@@ -35,3 +35,12 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbalci&layout=compact)](https://github.com/sbalci) -->
 
+<!--
+liberapay: sbalci
+patreon: sbalci
+custom: ["buymeacoff.ee/bS0teIs", buymeacoffee]
+custom: ["https://paypal.me/serdarbalci", paypal.me/serdarbalci]
+-->
+
+
+
