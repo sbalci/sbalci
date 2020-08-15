@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 -->
 
 
+![Serdar's github stats](https://github-readme-stats.vercel.app/api?username=sbalci&count_private=true&show_icons=true)
 
