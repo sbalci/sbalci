@@ -53,9 +53,10 @@ custom: ["https://paypal.me/serdarbalci", paypal.me/serdarbalci]
 </p>
 -->
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serdarbalci@serdarbalci.com)](mailto:serdarbalci@serdarbalci.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/serdarbalci/)](https://www.twitter.com/serdarbalci/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/serdarbalcimdpathologist/)](https://www.facebook.com/serdarbalcimdpathologist/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serdarbalci@serdarbalci.com)](mailto:serdarbalci@serdarbalci.com)  
+[![Mail Badge](https://img.shields.io/badge/-serdarbalci@serdarbalci.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serdarbalci@serdarbalci.com)](mailto:serdarbalci@serdarbalci.com)  
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/serdarbalci/)](https://www.twitter.com/serdarbalci/)  
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/serdarbalcimdpathologist/)](https://www.facebook.com/serdarbalcimdpathologist/)  
 
 
 
