@@ -16,6 +16,8 @@
 [![ClinicoPathJamoviModule Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=ClinicoPathJamoviModule)](https://sbalci.github.io/ClinicoPathJamoviModule/)
 
 
+[![PatolojiAtlasi Card](https://github-readme-stats.vercel.app/api/pin/?username=patolojiatlasi&repo=patolojiatlasi.github.io)](https://patolojiatlasi.github.io/)
+
 
 <!--
 **sbalci/sbalci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
