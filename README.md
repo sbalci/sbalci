@@ -19,6 +19,10 @@
 [![PatolojiAtlasi Card](https://github-readme-stats.vercel.app/api/pin/?username=patolojiatlasi&repo=patolojiatlasi.github.io)](https://patolojiatlasi.github.io/)
 
 
+[![sectra-qupath Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=sectra-qupath)](https://sbalci.github.io/sectra-qupath/)
+
+https://github.com/sbalci/sectra-qupath
+
 <!--
 **sbalci/sbalci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
