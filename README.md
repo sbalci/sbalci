@@ -21,7 +21,19 @@
 
 [![sectra-qupath Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=sectra-qupath)](https://sbalci.github.io/sectra-qupath/)
 
-https://github.com/sbalci/sectra-qupath
+
+<!-- 
+
+[![histopathology-template Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=histopathology-template)](https://sbalci.github.io/histopathology-template/) 
+
+-->
+
+
+[![ParaPathology Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=ParaPathology)](https://www.parapathology.com/)
+
+
+[![sbalci.github.io Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=sbalci.github.io)](https://sbalci.github.io/)
+
 
 <!--
 **sbalci/sbalci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
