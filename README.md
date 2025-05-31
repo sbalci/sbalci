@@ -22,13 +22,6 @@
 [![sectra-qupath Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=sectra-qupath)](https://sbalci.github.io/sectra-qupath/)
 
 
-<!-- 
-
-[![histopathology-template Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=histopathology-template)](https://sbalci.github.io/histopathology-template/) 
-
--->
-
-
 [![ParaPathology Card](https://github-readme-stats.vercel.app/api/pin/?username=sbalci&repo=ParaPathology)](https://www.parapathology.com/)
 
 
